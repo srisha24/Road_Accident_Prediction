@@ -1,1 +1,2 @@
 # Road_Accident_Prediction
+This project is done using python language ,Builded a classifier to train on 80% and test on 20% of accident prediction of UK dataset. And used Random Forest Classifier and Decision tree Classifier to predict a output. We used Seaborn library based on matplotlib. It provides a high-level interface for drawing attractive and informative statistical graphics. The dataset holds 36314 rows . We enfolded a data for the Random Forest Classifier and predicted certain results to it
